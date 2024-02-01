@@ -8,8 +8,4 @@ how to del a branch
 then if we 
 The branches have the copy of work from main or/ other branch from where it is created.
 
-
-text
-
-grand
-main one
+new to check
